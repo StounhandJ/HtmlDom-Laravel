@@ -1,0 +1,26 @@
+{
+    "name": "stounhandj/htmldom-laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "StounhandJ\\HtmldomLaravel\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "StounhandJ",
+            "email": "rmarinicev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "StounhandJ\\HtmldomLaravel\\HtmldomServiceProvider"
+            ]
+        }
+    }
+}
