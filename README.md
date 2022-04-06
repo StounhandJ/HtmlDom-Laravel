@@ -1,6 +1,10 @@
 HtmlDom-Laravel
 =======
-
+<p align="center">
+<a href="https://packagist.org/packages/stounhandj/htmldom-laravel"><img src="https://img.shields.io/packagist/dt/stounhandj/htmldom-laravel" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/stounhandj/htmldom-laravel"><img src="https://img.shields.io/packagist/v/stounhandj/htmldom-laravel" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/stounhandj/htmldom-laravel"><img src="https://img.shields.io/packagist/l/stounhandj/htmldom-laravel" alt="License"></a>
+</p>
 ### A package for Laravel 8, 7, 6, ^5.5 based on Simple HTML Dom Parser
 
 ## Installation
